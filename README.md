@@ -1,4 +1,4 @@
-# AMALL-CSS-ProjecT
+# AMALL-CSS-Project
 
 CSS Project (HTML, JavaScript, JQuery and Bootstrap are also used)
 
